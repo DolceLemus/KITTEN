@@ -5,9 +5,7 @@
     top: 0;
     right: 0;
     bottom: 0;
-    text-align: center;
     margin: 0;
-    padding-right: 30em;
 }
 
 .hide-cat-one {
@@ -35,4 +33,6 @@ img{
     position: absolute;
     bottom: 0;
     width:40%;
+    text-align: center;
+    left: 25%;
 }
